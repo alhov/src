@@ -1,0 +1,5 @@
+<map id="inheritanceb451284775" name="inheritanceb451284775">
+<area shape="rect" id="node1" href="#QuantumBayesian.inference.Inference" target="_top" title="Inference" alt="" coords="5,31,88,56"/>
+<area shape="rect" id="node2" href="#QuantumBayesian.inference_exact.Inference_Exact" target="_top" title="Class Inference_Exact represents exact inference in Quantum Bayesian Network." alt="" coords="136,5,263,31"/>
+<area shape="rect" id="node3" href="#QuantumBayesian.inference_jt.Inference_JT" target="_top" title="Class Inference_JT represents inference in Quantum Bayesian Network computed using optimized message passing algorithm." alt="" coords="148,55,251,80"/>
+</map>

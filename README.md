@@ -1,4 +1,4 @@
-# QBN
+# src
 The repository contains :
 - Source code of our project (folder QuantumBayesian)
 - Unitary tests (folder tests)

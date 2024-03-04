@@ -1,5 +1,6 @@
 # QBN
 Research project on Quantum Bayesian Networks conducted by Oleksandr Hoviadin, Siwar Sraieb and Mohamed Rayan Amara and supervised by Mr. Pierre-Henri Wuillemin.
+
 Current repository contains :
 - Source code of the project (folder QuantumBayesian)
 - Unitary tests (folder tests)
